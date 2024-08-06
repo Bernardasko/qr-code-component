@@ -38,7 +38,7 @@ body {
 .card {
     background-color: var(--white);
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.1);
-    padding: 15px 15px 15px 15px;
+    padding: 18px;
     border-radius:17px;
     text-align: center;
     margin: 0 1em;
